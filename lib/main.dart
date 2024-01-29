@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
               Icon(
                 Icons.menu,
                 // color: Colors.black87, // Remove this line to inherit the color from AppBar
-                size: 30,
+                size: 50,
               ),
             ],
           ),
